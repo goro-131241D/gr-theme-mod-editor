@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Theme Mods Editor
+Plugin Name: GR Theme Mods Editor
 Description: A plugin to edit theme mods data.
 Version: 1.0
 Author: Goro
